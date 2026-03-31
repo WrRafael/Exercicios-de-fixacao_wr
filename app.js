@@ -1,7 +1,7 @@
 let paoRecheado = true;
-let temPao = true;
+let temPao = false;
 
-if (paoRecheado===true && temPao===true){
+if (paoRecheado && temPao){
     console.log("o pao esta pronto!");
 }
 else{

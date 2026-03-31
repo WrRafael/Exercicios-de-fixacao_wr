@@ -1,6 +1,6 @@
 let paoRecheado = true;
 
-if (paoRecheado=false){
+if (paoRecheado===false){
     console.log("o pao nao esta pronto!");
 }
 else{
